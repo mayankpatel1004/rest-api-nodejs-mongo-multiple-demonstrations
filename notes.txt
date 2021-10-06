@@ -1,0 +1,16 @@
+PS G:\wamp64\www\misc\rest-api-nodejs-mongo> node
+Welcome to Node.js v14.18.0.      
+Type ".help" for more information.
+> const name = (myname) => {console.log(`my name is ${myname}`);}
+undefined
+> name()
+my name is undefined
+undefined
+>
+> name('mayank patel')
+my name is mayank patel
+undefined
+>
+
+
+JSON.Stringify to be use when we need to convert object into json.
